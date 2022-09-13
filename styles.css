@@ -1,0 +1,155 @@
+* {
+margin: auto;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+padding: 0px;
+}
+
+
+body {
+    background-image: url('fundo_body.jpeg');
+    margin: auto;
+   
+    
+}
+
+header {
+    margin: auto;
+    text-align: center;
+    width: 100%; 
+ 
+}
+
+.imagem_fundo {
+    background-image: url('fundo_logo5.png'); 
+    background-color: #f3bdad; 
+    background-repeat: no-repeat;
+    background-size: 150% 100%;
+    background-position: -90px 0px;
+    
+}
+
+.logoRenoveSkin {
+    width: 60%;
+    margin: 0 auto;  
+    padding: 2%;
+}
+
+.section1 {
+    padding: 8% 8%;
+    background-color: #B05F46; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    align-content: center;
+    margin: auto;
+}
+
+
+
+.containerattention {
+    text-align: center;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;   
+    margin: auto;
+}
+
+
+.imagemalert {
+    padding: 7% 0% 7% 0;
+}
+
+.parag_do_alert {
+    background-color: white;
+    text-align: center;
+    padding: 0% 5% 15% 5%;
+    font-size: 120%;
+    margin: auto;
+}
+
+
+.container_list {
+    background-color: #B05F46;
+    padding: 4% 0% 4% 0%;
+    display: flex;
+    justify-content: center;  
+}
+
+.div_gera_list {
+    text-align: center;
+    font-size: 120%;
+    width: 80%;
+    padding: 8% 1% 8% 1%;
+    display: flex;
+    flex-direction: column;
+    border: #ad3006 solid 2px;
+    background-color: #F9F2E2;
+    border-radius: 60px;
+    border: none;
+}
+
+
+li {
+    list-style-type: none;   
+}
+
+ul li b {
+    color: #B05F46;   
+}
+
+.container_valor {
+    background-color: #F9F2E2;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 110%; 
+    padding: 10% 2% 10% 2%; 
+    color: rgb(94, 2, 2); 
+    margin: auto;  
+}
+
+.parag_valor {
+    padding: 0% 0% 0% 0;
+    font-size: 150%;
+    color: #B05F46;
+    margin-bottom: 10%;
+}
+
+.geral_blocos_valor {
+    text-align: center;
+    color: #B05F46;
+}
+
+hr {
+    margin: auto;
+    text-align: center;
+    max-width: 80vw;
+}
+
+
+.Contact {
+    background-color: white;
+    border-top: #B05F46 2px solid;
+    margin: auto;
+    text-align: center;
+    padding: 0% 2% 0% 2%;
+}
+
+
+.body-contact {
+    padding: 8% 2% 8% 2%;
+}
+
+
+footer {
+    margin: auto;
+    text-align: center;
+    padding: 0.8% 0 0.8% 0;
+    border-top: #ad3006 2px solid;
+    background-color: #B05F46;
+    font-size: 2vw;
+}
+
