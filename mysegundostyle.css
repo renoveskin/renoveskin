@@ -1,0 +1,62 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    background-image: linear-gradient(to bottom right, rgba(255,0,0,0), #B05F46);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div_geral {
+    background-color: #e7e4e4;
+    border-radius: 30px;
+    padding-top: 20px;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 8px #333232;
+}
+
+.titulo_duvidas {
+    display: contents;
+    text-align: center;  
+    
+}
+
+h1 {
+    display: block;
+    border: none
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    font-size: 1.5rem;
+    box-shadow: 10px 10px 8px #333232;
+    background-color: white;
+    border-radius: 10px;
+}
+
+dt {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+dd {
+    margin-bottom: 5px;
+}
+
+.div_voltar_pag_ini {
+    display: flex;
+    margin-top: 10px;
+    text-align: left;
+    justify-content: flex-end;
+}
+
+.text_link_voltar_pag_ini {
+    font-size: 25px;
+    color: #652716;
+    padding: 10px;
+    
+
+   
+}
+
